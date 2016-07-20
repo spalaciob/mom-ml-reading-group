@@ -21,6 +21,6 @@ Participants:
 Meetings:
 ========
 26.07.2016 (FR)
-+ Nitish and Salakhutdinov. ["Multimodal learning with deep boltzmann machines."](http://papers.nips.cc/paper/4683-multimodal-learning-with-deep-boltzmann-machines) NIPS 2012.
++ Ngiam _et al_. ["Multimodal Deep Learning."](http://www.icml-2011.org/papers/399_icmlpaper.pdf) ICML 2011.
 
 
