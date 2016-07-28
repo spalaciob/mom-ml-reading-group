@@ -23,4 +23,7 @@ Meetings:
 26.07.2016 (FR)
 + Ngiam _et al_. ["Multimodal Deep Learning."](http://www.icml-2011.org/papers/399_icmlpaper.pdf) ICML 2011.
 
+02.08.2016 (SP)
++ Du Tran _et al_. ["Learning Spatiotemporal Features with 3D Convolutional Networks"](https://arxiv.org/abs/1412.0767) CoRR 2014.
+
 
