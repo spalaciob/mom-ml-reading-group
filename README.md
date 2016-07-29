@@ -26,4 +26,8 @@ Meetings:
 02.08.2016 (SP)
 + Du Tran _et al_. ["Learning Spatiotemporal Features with 3D Convolutional Networks"](https://arxiv.org/abs/1412.0767) CoRR 2014.
 
+??.??.2016 (TK)
++ Goodfellow _et al._ ["Generative Adversarial Nets"](http://papers.nips.cc/paper/5423-generative-adversarial) NIPS 2014.
 
+??.??.2016 (PB)
++ Makhzani  _et al._["Adversarial Autoencoders"](http://arxiv.org/abs/1511.05644) CoRR 2015.
