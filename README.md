@@ -25,5 +25,5 @@ Meetings:
 |:----:|:-----:|:-------:|
 |26.07.2016  | Ngiam _et al_. ["Multimodal Deep Learning."](http://www.icml-2011.org/papers/399_icmlpaper.pdf) ICML 2011. |  FR       |
 | 02.08.2016 | Du Tran _et al_. ["Learning Spatiotemporal Features with 3D Convolutional Networks"](https://arxiv.org/abs/1412.0767) CoRR 2014.| SP |
-|??.??.2016  | Goodfellow _et al._ ["Generative Adversarial Nets"](http://papers.nips.cc/paper/5423-generative-adversarial) NIPS 2014.|TK|
+|15.08.2016  | Goodfellow _et al._ ["Generative Adversarial Nets"](http://papers.nips.cc/paper/5423-generative-adversarial) NIPS 2014.|TK|
 |??.??.2016 | Makhzani  _et al._["Adversarial Autoencoders"](http://arxiv.org/abs/1511.05644) CoRR 2015.|PB|
