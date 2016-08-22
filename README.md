@@ -28,3 +28,5 @@ Meetings:
 |16.08.2016  | Goodfellow _et al._ ["Generative Adversarial Nets"](http://papers.nips.cc/paper/5423-generative-adversarial) NIPS 2014.|TK|
 |23.08.2016  | Jaderberg _et al._ ["Spatial transformer networks"](http://papers.nips.cc/paper/5854-spatial-transformer-networks) NIPS 2015.|VC|
 |30.08.2016 | Makhzani  _et al._["Adversarial Autoencoders"](http://arxiv.org/abs/1511.05644) CoRR 2015.|PB|
+|06.09.2016 | TBA |SP|
+|13.09.2016 | Top five papers at [ICANN](http://icann2016.org) .|FR|
