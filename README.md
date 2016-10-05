@@ -32,5 +32,5 @@ Meetings:
 |20.09.2016 | van den Oord _et al._ ["Pixel Recurrent Neural Networks"](http://arxiv.org/abs/1601.06759) CoRR 2016 |TK|
 |27.09.2016 | Krueger _et al._ ["Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations"](http://arxiv.org/abs/1606.01305) CoRR 2016.|FR|
 |04.10.2016 | TBA |PB|
-|11.10.2016 | TBA |SP| 
+|11.10.2016 | Pruning Filters for CNNs **OR** Cross-modal CNNS |SP| 
 |18.10.2016 | TBA |FR| 
