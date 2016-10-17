@@ -33,4 +33,4 @@ Meetings:
 |27.09.2016 | Krueger _et al._ ["Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations"](http://arxiv.org/abs/1606.01305) CoRR 2016.|FR|
 |04.10.2016 | TBA |PB|
 |11.10.2016 | Pruning Filters for CNNs **OR** Cross-modal CNNS |SP| 
-|18.10.2016 | TBA |FR| 
+|18.10.2016 | Srivastava _et al._ ["Training Very Deep Networks"](https://arxiv.org/abs/1507.06228) NIPS 2015|FR| 
