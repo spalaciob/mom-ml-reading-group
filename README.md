@@ -33,4 +33,4 @@ Meetings:
 |27.09.2016 | Krueger _et al._ ["Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations"](http://arxiv.org/abs/1606.01305) CoRR 2016.|FR|
 |04.10.2016 | TBA |PB|
 |11.10.2016 | Abu-El-Haija, S. _et al._ ["YouTube-8M: A Large-Scale Video Classification Benchmark"](https://arxiv.org/abs/1609.08675) 2016 |SP| 
-|18.10.2016 | Srivastava _et al._ ["Training Very Deep Networks"](https://arxiv.org/abs/1507.06228) NIPS 2015|FR| 
+|25.10.2016 | Srivastava _et al._ ["Training Very Deep Networks"](https://arxiv.org/abs/1507.06228) NIPS 2015|FR| 
