@@ -35,3 +35,4 @@ Meetings:
 |11.10.2016 | Abu-El-Haija, S. _et al._ ["YouTube-8M: A Large-Scale Video Classification Benchmark"](https://arxiv.org/abs/1609.08675) 2016 |SP| 
 |25.10.2016 | Srivastava _et al._ ["Training Very Deep Networks"](https://arxiv.org/abs/1507.06228) NIPS 2015 ["Project Website"](http://people.idsia.ch/~rupesh/very_deep_learning/)|FR| 
 |8.11.2016 | Greff, K. _et al._ ["Highway and Residual Networks learn Unrolled Iterative Estimation"](http://openreview.net/pdf?id=Skn9Shcxe) Submitted to ICLR 2017 |TK| 
+|8.14.2016 | Radford, A. _et al._ ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"](https://arxiv.org/abs/1511.06434) CoRR 2016 |FR| 
