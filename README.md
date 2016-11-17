@@ -31,7 +31,7 @@ Meetings:
 |06.09.2016 | Yixuan Li _et al._ ["Convergent Learning: Do different neural networks learn the same representations?"](https://arxiv.org/pdf/1511.07543v3) ICLR 2016.|SP|
 |20.09.2016 | van den Oord _et al._ ["Pixel Recurrent Neural Networks"](http://arxiv.org/abs/1601.06759) CoRR 2016 |TK|
 |27.09.2016 | Krueger _et al._ ["Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations"](http://arxiv.org/abs/1606.01305) CoRR 2016.|FR|
-|04.10.2016 | TBA |PB|
+|04.10.2016 | Weston _et al._ ["Memory Networks"](https://arxiv.org/abs/1410.3916) ICLR 2015. |PB|
 |11.10.2016 | Abu-El-Haija, S. _et al._ ["YouTube-8M: A Large-Scale Video Classification Benchmark"](https://arxiv.org/abs/1609.08675) 2016 |SP| 
 |25.10.2016 | Srivastava _et al._ ["Training Very Deep Networks"](https://arxiv.org/abs/1507.06228) NIPS 2015 ["Project Website"](http://people.idsia.ch/~rupesh/very_deep_learning/)|FR| 
 |8.11.2016 | Greff, K. _et al._ ["Highway and Residual Networks learn Unrolled Iterative Estimation"](http://openreview.net/pdf?id=Skn9Shcxe) Submitted to ICLR 2017 |TK| 
