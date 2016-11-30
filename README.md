@@ -37,3 +37,5 @@ Meetings:
 |8.11.2016 | Greff, K. _et al._ ["Highway and Residual Networks learn Unrolled Iterative Estimation"](http://openreview.net/pdf?id=Skn9Shcxe) Submitted to ICLR 2017 |TK| 
 |14.11.2016 | Radford, A. _et al._ ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"](https://arxiv.org/abs/1511.06434) CoRR 2016 |FR| 
 |22.11.2016 | Tran, D. _et al._ ["ViCom: Benchmark and Methods for Video Comprehension"](https://arxiv.org/abs/1606.07373) CoRR 2016 |SP| 
+|29.11.2016 | TBA |TK|
+|(10 or 17).01.2017 | TBA |FR|
