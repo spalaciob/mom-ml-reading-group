@@ -40,3 +40,4 @@ Meetings:
 |22.11.2016 | Tran, D. _et al._ ["ViCom: Benchmark and Methods for Video Comprehension"](https://arxiv.org/abs/1606.07373) CoRR 2016 |SP| 
 |29.11.2016 | TBA |TK|
 |24.01.2017 | ["Nuts and Bolts of Applying Deep Learning"](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng (Part 1/2) | - |
+|31.01.2017 | ["Nuts and Bolts of Applying Deep Learning"](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng (Part 2/2) | - |
