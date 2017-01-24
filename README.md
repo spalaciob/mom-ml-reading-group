@@ -39,4 +39,4 @@ Meetings:
 |14.11.2016 | Radford, A. _et al._ ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"](https://arxiv.org/abs/1511.06434) CoRR 2016 |FR| 
 |22.11.2016 | Tran, D. _et al._ ["ViCom: Benchmark and Methods for Video Comprehension"](https://arxiv.org/abs/1606.07373) CoRR 2016 |SP| 
 |29.11.2016 | TBA |TK|
-|(10 or 17).01.2017 | TBA |FR|
+|24.01.2017 | ["Nuts and Bolts of Applying Deep Learning"](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng (Part 1/2) | - |
