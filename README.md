@@ -18,7 +18,8 @@ Participants:
 + SP: Sebastian Palacio
 + TK: Tushar Karayil
 + PB: Philipp Blandfort
-+ VC: Victor Campos 
++ VC: Victor Campos
++ BB: Benjamin Bischke
 
 Meetings:
 ========
