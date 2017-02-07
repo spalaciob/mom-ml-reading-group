@@ -43,9 +43,9 @@ Meetings:
 |24.01.2017 | ["Nuts and Bolts of Applying Deep Learning"](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng (Part 1/2) | - |
 |31.01.2017 | ["Nuts and Bolts of Applying Deep Learning"](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng (Part 2/2) | - |
 |7.02.2017 | Dumoulin, V. _et al._ ["Adversarially Learned Inference"](https://arxiv.org/abs/1606.00704) under review at ICLR2017  | FR |
-|14.02.2017 | TBA  | TBA |
-|21.02.2017 | TBA  | TBA |
-|28.02.2017 | TBA  | TBA |
+|14.02.2017 | TBA  | SP |
+|21.02.2017 | TBA  | TK |
+|28.02.2017 | TBA  | BB |
 |7.03.2017 | TBA  | TBA |
 |14.03.2017 | TBA  | TBA |
 |21.03.2017 | TBA  | TBA |
