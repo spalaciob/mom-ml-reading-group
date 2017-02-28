@@ -44,7 +44,7 @@ Meetings:
 |31.01.2017 | ["Nuts and Bolts of Applying Deep Learning"](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng (Part 2/2) | - |
 |7.02.2017 | Dumoulin, V. _et al._ ["Adversarially Learned Inference"](https://arxiv.org/abs/1606.00704) ICLR2017  | FR |
 |14.02.2017 | Marino, K. _et al._ ["The More You Know: Using Knowledge Graphs for Image Classification"](https://arxiv.org/abs/1612.04844) CoRR 12.2016 | SP |
-|21.02.2017 | TBA  | TK |
+|21.02.2017 | Schmidhuber, J. ["Learning Factorial Codes by Predictability Minimization"](ftp://ftp.idsia.ch/pub/juergen/factorial.pdf). Neural Computation 1992.  | TK |
 |28.02.2017 | TBA  | BB |
 |7.03.2017 | TBA  | TBA |
 |14.03.2017 | TBA  | TBA |
