@@ -10,7 +10,8 @@ Guidelines:
 + It is better to show a paper PDF up on a projector than cancel a meeting. 
 + After a major conference, have all of the people who attended the conference present their "top K paper." 
 + Meetings on Raskin, Tuesdays@11:00 (Booked until July 2017)
-  + ~~31.01~~, 14.03, 11.04, 09.05 will take place in Wittgenstein instead (3.02)
+  + ~~31.01~~, 14.03, ~~11.04~~, 09.05 will take place in Wittgenstein instead (3.02)
+  + 11.04 will take place in Bayes (2.04)
 
 Participants:
 -------------
