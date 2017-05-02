@@ -21,6 +21,8 @@ Participants:
 + PB: Philipp Blandfort
 + VC: Victor Campos
 + BB: Benjamin Bischke
++ MS: Marco Schreyer
++ MM: Mohsin Munir
 
 Meetings:
 ========
@@ -49,4 +51,8 @@ Meetings:
 |28.02.2017 | Schmidhuber, J. ["Learning Factorial Codes by Predictability Minimization"](http://cognet.mit.edu/journal/10.1162/neco.1992.4.6.863). Neural Computation 1992.  | TK |
 |11.04.2017 | Diederik P Kingma, Max Welling ["Auto-Encoding Variational Bayes"](https://arxiv.org/abs/1312.6114). ICLR 2014  | BB |
 |21.04.1017 | Hendricks, L. A. _et al._ ["Generating Visual Explanations"](https://arxiv.org/abs/1603.08507). ECCV 2016. | PB |
-|??.??.2017 | TBA  | BB |
+|21.04.1017| TBA | MS | 
+|02.05.2017 | (Short) Introduction to Reinforcement Learning  | FR |
+|09.05.2017 | TBA  | TK |
+|16.05.2017 | TBA  | MM |
+
