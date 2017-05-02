@@ -11,7 +11,7 @@ Guidelines:
 + After a major conference, have all of the people who attended the conference present their "top K paper." 
 + Meetings on Raskin, Tuesdays@11:00 (Booked until July 2017)
   + ~~31.01~~, 14.03, ~~11.04~~, 09.05 will take place in Wittgenstein instead (3.02)
-  + 11.04 will take place in Bayes (2.04)
+  + ~~11.04~~ will take place in Bayes (2.04)
 
 Participants:
 -------------
@@ -50,8 +50,8 @@ Meetings:
 |21.02.2017 | None  | None |
 |28.02.2017 | Schmidhuber, J. ["Learning Factorial Codes by Predictability Minimization"](http://cognet.mit.edu/journal/10.1162/neco.1992.4.6.863). Neural Computation 1992.  | TK |
 |11.04.2017 | Diederik P Kingma, Max Welling ["Auto-Encoding Variational Bayes"](https://arxiv.org/abs/1312.6114). ICLR 2014  | BB |
-|21.04.1017 | Hendricks, L. A. _et al._ ["Generating Visual Explanations"](https://arxiv.org/abs/1603.08507). ECCV 2016. | PB |
-|21.04.1017| TBA | MS | 
+|21.04.2017 | Hendricks, L. A. _et al._ ["Generating Visual Explanations"](https://arxiv.org/abs/1603.08507). ECCV 2016. | PB |
+|21.04.2017| TBA | MS | 
 |02.05.2017 | (Short) Introduction to Reinforcement Learning  | FR |
 |09.05.2017 | TBA  | TK |
 |16.05.2017 | TBA  | MM |
