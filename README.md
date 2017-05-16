@@ -55,5 +55,5 @@ Meetings:
 |21.04.2017 | Kirkpatrick, J. _et al._ ["Overcoming catastrophic forgetting in neural networks"](https://arxiv.org/abs/1612.00796). PNAS 2017 | MS | 
 |02.05.2017 | (Short) Introduction to Reinforcement Learning  | FR |
 |09.05.2017 | (Short) Introduction to Fisher Information and Reimann Manifolds :- [Intro to Fisher Information](http://people.missouristate.edu/songfengzheng/Teaching/MTH541/Lecture%20notes/Fisher_info.pdf)   | TK |
-|16.05.2017 | TBA  | MM |
+|16.05.2017 | Yisheng, L. _et al._ ["Traffic Flow Prediction With Big Data: A Deep Learning Approach"](http://ieeexplore.ieee.org/document/6894591/). IEEE Transactions on Intelligent Transportation Systems 2015. | MM |
 
