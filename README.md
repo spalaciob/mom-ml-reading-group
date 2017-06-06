@@ -44,7 +44,7 @@ Meetings:
 |8.11.2016 | Greff, K. _et al._ ["Highway and Residual Networks learn Unrolled Iterative Estimation"](http://openreview.net/pdf?id=Skn9Shcxe) Submitted to ICLR 2017 |TK| 
 |14.11.2016 | Radford, A. _et al._ ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"](https://arxiv.org/abs/1511.06434) CoRR 2016 |FR| 
 |22.11.2016 | Tran, D. _et al._ ["ViCom: Benchmark and Methods for Video Comprehension"](https://arxiv.org/abs/1606.07373) CoRR 2016 |SP| 
-|29.11.2016 | TBA |TK|
+|29.11.2016 | * tumbleweed * | - |
 |24.01.2017 | ["Nuts and Bolts of Applying Deep Learning"](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng (Part 1/2) | - |
 |31.01.2017 | ["Nuts and Bolts of Applying Deep Learning"](https://www.youtube.com/watch?v=F1ka6a13S9I) by Andrew Ng (Part 2/2) | - |
 |7.02.2017 | Dumoulin, V. _et al._ ["Adversarially Learned Inference"](https://arxiv.org/abs/1606.00704) ICLR2017  | FR |
@@ -59,4 +59,6 @@ Meetings:
 |16.05.2017 | Yisheng, L. _et al._ ["Traffic Flow Prediction With Big Data: A Deep Learning Approach"](http://ieeexplore.ieee.org/document/6894591/). IEEE Transactions on Intelligent Transportation Systems 2015. | MM |
 |26.05.2017 | Jifeng Dai. _et al._ ["Deformable Convolutional Networks"](https://arxiv.org/abs/1703.06211). 22.03.2017 | BB |
 |31.05.2017 | Han Zhang. _et al._ ["StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks"](https://arxiv.org/abs/1612.03242). 10.12.2016 | TR |
-
+|dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
+|dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
+|13.06.2017 | Chiyuan Zhang _et al._ ["Understanding deep learning requires rethinking generalization"](https://openreview.net/pdf?id=Sy8gdB9xx). ICLR 2017 | SP |
