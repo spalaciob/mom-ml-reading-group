@@ -24,6 +24,7 @@ Participants:
 + BB: Benjamin Bischke
 + MS: Marco Schreyer
 + MM: Mohsin Munir
++ TR: Tahseen Rizvi
 
 Meetings:
 ========
@@ -57,5 +58,5 @@ Meetings:
 |09.05.2017 | (Short) Introduction to Fisher Information and Reimann Manifolds :- [Intro to Fisher Information](http://people.missouristate.edu/songfengzheng/Teaching/MTH541/Lecture%20notes/Fisher_info.pdf)   | TK |
 |16.05.2017 | Yisheng, L. _et al._ ["Traffic Flow Prediction With Big Data: A Deep Learning Approach"](http://ieeexplore.ieee.org/document/6894591/). IEEE Transactions on Intelligent Transportation Systems 2015. | MM |
 |26.05.2017 | Jifeng Dai. _et al._ ["Deformable Convolutional Networks"](https://arxiv.org/abs/1703.06211). 22.03.2017 | BB |
-
+|31.05.2017 | Han Zhang. _et al._ ["StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks"](https://arxiv.org/abs/1612.03242). 10.12.2016 | TR |
 
