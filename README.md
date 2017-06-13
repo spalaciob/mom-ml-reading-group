@@ -59,6 +59,6 @@ Meetings:
 |16.05.2017 | Yisheng, L. _et al._ ["Traffic Flow Prediction With Big Data: A Deep Learning Approach"](http://ieeexplore.ieee.org/document/6894591/). IEEE Transactions on Intelligent Transportation Systems 2015. | MM |
 |26.05.2017 | Jifeng Dai. _et al._ ["Deformable Convolutional Networks"](https://arxiv.org/abs/1703.06211). 22.03.2017 | BB |
 |31.05.2017 | Han Zhang. _et al._ ["StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks"](https://arxiv.org/abs/1612.03242). 10.12.2016 | TR |
-|dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
-|dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
+|06.06.2017 | Junyoung Chung _et al._ ["A Recurrent Latent Variable Model for Sequential Data"](https://arxiv.org/abs/1506.02216). NIPS 2015 | PB |
 |13.06.2017 | Chiyuan Zhang _et al._ ["Understanding deep learning requires rethinking generalization"](https://openreview.net/pdf?id=Sy8gdB9xx). ICLR 2017 | SP |
+|dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
