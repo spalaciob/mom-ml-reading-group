@@ -61,5 +61,5 @@ Meetings:
 |31.05.2017 | Han Zhang. _et al._ ["StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks"](https://arxiv.org/abs/1612.03242). 10.12.2016 | TR |
 |06.06.2017 | Junyoung Chung _et al._ ["A Recurrent Latent Variable Model for Sequential Data"](https://arxiv.org/abs/1506.02216). NIPS 2015 | PB |
 |13.06.2017 | Chiyuan Zhang _et al._ ["Understanding deep learning requires rethinking generalization"](https://openreview.net/pdf?id=Sy8gdB9xx). ICLR 2017 | SP |
-|27.06.2017 | Alexander Pritzel _et al._ ["Neural Episodic Control"](https://arxiv.org/abs/1703.01988) 06.03.2017| MS |
+|27.06.2017 | Alexander Pritzel _et al._ ["Neural Episodic Control"](https://arxiv.org/abs/1703.01988). 06.03.2017| MS |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
