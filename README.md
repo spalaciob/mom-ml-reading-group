@@ -62,4 +62,5 @@ Meetings:
 |06.06.2017 | Junyoung Chung _et al._ ["A Recurrent Latent Variable Model for Sequential Data"](https://arxiv.org/abs/1506.02216). NIPS 2015 | PB |
 |13.06.2017 | Chiyuan Zhang _et al._ ["Understanding deep learning requires rethinking generalization"](https://openreview.net/pdf?id=Sy8gdB9xx). ICLR 2017 | SP |
 |27.06.2017 | Alexander Pritzel _et al._ ["Neural Episodic Control"](https://arxiv.org/abs/1703.01988). 06.03.2017| MS |
+|18.07.2017 | Kaiming He _et al._ ["Deep Residual Learning for Image Recognition"](https://arxiv.org/pdf/1512.03385.pdf). 10.12.2015| MM |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
