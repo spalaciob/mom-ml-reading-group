@@ -10,9 +10,9 @@ Guidelines:
 + It is better to show a paper PDF up on a projector than cancel a meeting. 
 + After a major conference, have all of the people who attended the conference present their "top K paper."
 + If you need inspiration regarding a paper to present, have a look at the [top papers on ArXiv Sanity Preserver](http://www.arxiv-sanity.com/top). 
-+ Meetings on Raskin, Tuesdays@11:00 (Booked until July 2017)
-  + ~~31.01~~, 14.03, ~~11.04~~, 09.05 will take place in Wittgenstein instead (3.02)
-  + ~~11.04~~ will take place in Bayes (2.04)
++ Meetings on Raskin, Tuesdays@11:00 (Booked until December 2017)
+  + 08.08, 12.09, 10.10, 14.11 and 12.12 will take place in Bayes instead (2.04)
+  + on the 26.09 there are no rooms available because of the SAB but we *should* be able to use Raskin
 
 Participants:
 -------------
