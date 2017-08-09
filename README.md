@@ -9,7 +9,8 @@ Guidelines:
 + Choose your own papers to present.
 + It is better to show a paper PDF up on a projector than cancel a meeting. 
 + After a major conference, have all of the people who attended the conference present their "top K paper."
-+ If you need inspiration regarding a paper to present, have a look at the [top papers on ArXiv Sanity Preserver](http://www.arxiv-sanity.com/top). 
++ If you need inspiration regarding a paper to present, have a look at the [top papers on ArXiv Sanity Preserver](http://www.arxiv-sanity.com/top).
++ If you can, please upload in advance the name of the paper you're presenting. This way, other people could prepare if they wish.
 + Meetings on Raskin, Tuesdays@11:00 (Booked until December 2017)
   + 08.08, 12.09, 10.10, 14.11 and 12.12 will take place in Bayes instead (2.04)
   + on the 26.09 there are no rooms available because of the SAB but we *should* be able to use Raskin
@@ -64,4 +65,5 @@ Meetings:
 |27.06.2017 | Alexander Pritzel _et al._ ["Neural Episodic Control"](https://arxiv.org/abs/1703.01988). 06.03.2017| MS |
 |18.07.2017 | Kaiming He _et al._ ["Deep Residual Learning for Image Recognition"](https://arxiv.org/pdf/1512.03385.pdf). 10.12.2015| MM |
 |08.08.2017 | He _et al._ ["An Unsupervised Neural Attention Model for Aspect Extraction"](http://aclweb.org/anthology/P17-1036). ACL 2017 | PB |
+|15.08.2017 | Villegas _et al._ ["Learning to Generate Long-term Future via Hierarchical Prediction"](https://sites.google.com/a/umich.edu/rubenevillegas/hierch_vid). ICML 2017 | SP |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
