@@ -21,11 +21,13 @@ Participants:
 + SP: Sebastian Palacio
 + TK: Tushar Karayil
 + PB: Philipp Blandfort
-+ VC: Victor Campos
 + BB: Benjamin Bischke
 + MS: Marco Schreyer
 + MM: Mohsin Munir
 + TR: Tahseen Rizvi
+
+#### Former members
++ VC: Victor Campos
 
 Meetings:
 ========
