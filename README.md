@@ -68,4 +68,5 @@ Meetings:
 |18.07.2017 | Kaiming He _et al._ ["Deep Residual Learning for Image Recognition"](https://arxiv.org/pdf/1512.03385.pdf). 10.12.2015| MM |
 |08.08.2017 | He _et al._ ["An Unsupervised Neural Attention Model for Aspect Extraction"](http://aclweb.org/anthology/P17-1036). ACL 2017 | PB |
 |15.08.2017 | Villegas _et al._ ["Learning to Generate Long-term Future via Hierarchical Prediction"](https://sites.google.com/a/umich.edu/rubenevillegas/hierch_vid). ICML 2017 | SP |
+|22.08.2017 | Chen and Zaki ["KATE: K-Competitive Autoencoder for Text"](https://arxiv.org/pdf/1705.02033.pdf). KDD 2017 | MS |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
