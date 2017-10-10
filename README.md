@@ -71,4 +71,5 @@ Meetings:
 |15.08.2017 | Villegas _et al._ ["Learning to Generate Long-term Future via Hierarchical Prediction"](https://sites.google.com/a/umich.edu/rubenevillegas/hierch_vid). ICML 2017 | SP |
 |22.08.2017 | Chen and Zaki ["KATE: K-Competitive Autoencoder for Text"](https://arxiv.org/pdf/1705.02033.pdf). KDD 2017 | MS |
 |29.08.2017 | Samuel Albanie. _et al._ ["Stopping GAN Violence: Generative Unadversarial Networks"](https://arxiv.org/abs/1703.02528). | TR |
+|10.10.2017 | Tom Hope _et al._ ["Accelerating Innovation Through Analogy Mining"](http://www.kdd.org/kdd2017/papers/view/accelerating-innovation-through-analogy-mining. 10.12.2015| MM |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
