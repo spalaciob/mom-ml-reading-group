@@ -72,4 +72,5 @@ Meetings:
 |22.08.2017 | Chen and Zaki ["KATE: K-Competitive Autoencoder for Text"](https://arxiv.org/pdf/1705.02033.pdf). KDD 2017 | MS |
 |29.08.2017 | Samuel Albanie. _et al._ ["Stopping GAN Violence: Generative Unadversarial Networks"](https://arxiv.org/abs/1703.02528). | TR |
 |10.10.2017 | Tom Hope _et al._ ["Accelerating Innovation Through Analogy Mining"](http://www.kdd.org/kdd2017/papers/view/accelerating-innovation-through-analogy-mining). KDD 2017 | MM |
+|07.11.2017 | Gregoire Montavon _et al._ ["Explaining Nonlinear Classification Decisions with Deep Taylor Decomposition"](http://www.sciencedirect.com/science/article/pii/S0031320316303582). Pattern Recognition 2017 | PB |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
