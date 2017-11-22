@@ -74,5 +74,5 @@ Meetings:
 |10.10.2017 | Tom Hope _et al._ ["Accelerating Innovation Through Analogy Mining"](http://www.kdd.org/kdd2017/papers/view/accelerating-innovation-through-analogy-mining). KDD 2017 | MM |
 |07.11.2017 | Gregoire Montavon _et al._ ["Explaining Nonlinear Classification Decisions with Deep Taylor Decomposition"](http://www.sciencedirect.com/science/article/pii/S0031320316303582). Pattern Recognition 2017 | PB |
 |21.11.2017 | Author _et al._ ["Network Dissection: Quantifying Interpretability of Deep Visual Representations"](https://arxiv.org/abs/1704.05796). CVPR 2017 | BB |
-|28.11.2017 | Author _et al._ ["One model to learn them all"](https://arxiv.org/abs/1706.05137v1). Conference DATE | WHO |
+|28.11.2017 | Author _et al._ ["One model to learn them all"](https://arxiv.org/abs/1706.05137v1). CoRR 2017 | WHO |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
