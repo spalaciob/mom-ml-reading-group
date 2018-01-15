@@ -77,5 +77,5 @@ Meetings:
 |21.11.2017 | Author _et al._ ["Network Dissection: Quantifying Interpretability of Deep Visual Representations"](https://arxiv.org/abs/1704.05796). CVPR 2017 | BB |
 |28.11.2017 | Author _et al._ ["One model to learn them all"](https://arxiv.org/abs/1706.05137v1). CoRR 2017 | SP |
 |16.01.2018 | John Platt ["Energy Strategies to Decrease CO2 Emissions"](https://youtu.be/L1jLpkvKPh0?t=1760). NIPS 2017 | -- |
-|16.01.2018 | Ali Rahimi ["Let's take machine learning from alchemy to electricity](https://youtu.be/ORHFOnaEzPc?t=170). NIPS 2017 | -- |
+|16.01.2018 | Ali Rahimi ["Let's take machine learning from alchemy to electricity"](https://youtu.be/ORHFOnaEzPc?t=170). NIPS 2017 | -- |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
