@@ -1,4 +1,4 @@
-Reading Group @ DFKI-MOM
+Reading Group @ DFKI-SDS
 ========================
 Reading group about Machine Learning topics at DFKI
 
@@ -7,13 +7,11 @@ Guidelines:
 + You don't need faculty.
 + Be fearless. Ask dumb questions.
 + Choose your own papers to present.
-+ It is better to show a paper PDF up on a projector than cancel a meeting. 
-+ After a major conference, have all of the people who attended the conference present their "top K paper."
++ It is better to show a PDF of a paper up on a projector, than to cancel a meeting. 
++ After a major conference, have all of the people who attended the conference present their "top K papers."
 + If you need inspiration regarding a paper to present, have a look at the [top papers on ArXiv Sanity Preserver](http://www.arxiv-sanity.com/top).
 + If you can, please upload in advance the name of the paper you're presenting. This way, other people could prepare if they wish.
-+ Meetings on Raskin, Tuesdays@11:00 (Booked until December 2017)
-  + 08.08, 12.09, 10.10, 14.11 and 12.12 will take place in Bayes instead (2.04)
-  + on the 26.09 there are no rooms available because of the SAB but we *should* be able to use Raskin
++ Meetings on Raskin, Tuesdays@11:00 (Booked until June 10 2018)
 
 Participants:
 -------------
@@ -23,11 +21,14 @@ Participants:
 + PB: Philipp Blandfort
 + BB: Benjamin Bischke
 + MS: Marco Schreyer
-+ MM: Mohsin Munir
-+ TR: Tahseen Rizvi
++ AG: Andrey Guzhov
++ SE: Sara Elkasrawi
 
 #### Former members
 + VC: Victor Campos
++ WT: William Thong 
++ MM: Mohsin Munir
++ TR: Tahseen Rizvi
 
 Meetings:
 ========
@@ -75,4 +76,5 @@ Meetings:
 |07.11.2017 | Gregoire Montavon _et al._ ["Explaining Nonlinear Classification Decisions with Deep Taylor Decomposition"](http://www.sciencedirect.com/science/article/pii/S0031320316303582). Pattern Recognition 2017 | PB |
 |21.11.2017 | Author _et al._ ["Network Dissection: Quantifying Interpretability of Deep Visual Representations"](https://arxiv.org/abs/1704.05796). CVPR 2017 | BB |
 |28.11.2017 | Author _et al._ ["One model to learn them all"](https://arxiv.org/abs/1706.05137v1). CoRR 2017 | SP |
+|16.01.2018 | John Platt ["Energy Strategies to Decrease CO2 Emissions"](https://youtu.be/L1jLpkvKPh0?t=1760). NIPS 2017 | -- |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
