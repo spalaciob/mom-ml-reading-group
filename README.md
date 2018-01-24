@@ -23,6 +23,7 @@ Participants:
 + MS: Marco Schreyer
 + AG: Andrey Guzhov
 + SE: Sara Elkasrawi
++ PH: Patrick Helber
 
 #### Former members
 + VC: Victor Campos
@@ -79,4 +80,5 @@ Meetings:
 |05.12.2017 | Yang, F. _et al._ ["Satirical News Detection and Analysis using Attention Mechanism and Linguistic Features"](https://arxiv.org/abs/1709.01189). EMNLP 2017 | SE |
 |16.01.2018 | John Platt ["Energy Strategies to Decrease CO2 Emissions"](https://youtu.be/L1jLpkvKPh0?t=1760). NIPS 2017 | -- |
 |16.01.2018 | Ali Rahimi ["Let's take machine learning from alchemy to electricity"](https://youtu.be/ORHFOnaEzPc?t=170). NIPS 2017 | -- |
+|23.01.2018 | Michael Figurnov _et al._ ["Spatially Adaptive Computation Time for Residual Networks"](https://arxiv.org/abs/1612.02297). CVPR 2017 | PH |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
