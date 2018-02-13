@@ -81,4 +81,5 @@ Meetings:
 |16.01.2018 | John Platt ["Energy Strategies to Decrease CO2 Emissions"](https://youtu.be/L1jLpkvKPh0?t=1760). NIPS 2017 | -- |
 |16.01.2018 | Ali Rahimi ["Let's take machine learning from alchemy to electricity"](https://youtu.be/ORHFOnaEzPc?t=170). NIPS 2017 | -- |
 |23.01.2018 | Michael Figurnov _et al._ ["Spatially Adaptive Computation Time for Residual Networks"](https://arxiv.org/abs/1612.02297). CVPR 2017 | PH |
+|13.12.2018 | Yang _et al._ ["Towards K-Means-Friendly Spaces: Simultaneous Deep Learning and Clustering"](https://arxiv.org/abs/1610.04794). ICML 2017 | MS |
 |dd.mm.yyyy | Author _et al._ ["Title"](https://link.to.paper). Conference DATE | WHO |
