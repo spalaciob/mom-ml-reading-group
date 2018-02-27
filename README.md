@@ -24,6 +24,8 @@ Participants:
 + AG: Andrey Guzhov
 + SE: Sara Elkasrawi
 + PH: Patrick Helber
++ FA: Fatemeh Azimi
+
 
 #### Former members
 + VC: Victor Campos
@@ -83,4 +85,4 @@ Meetings:
 |23.01.2018 | Michael Figurnov _et al._ ["Spatially Adaptive Computation Time for Residual Networks"](https://arxiv.org/abs/1612.02297). CVPR 2017 | PH |
 |06.02.2018 | Ethics in Machine Learning. See e.g. [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html). | PB |
 |13.02.2018 | Yang _et al._ ["Towards K-Means-Friendly Spaces: Simultaneous Deep Learning and Clustering"](https://arxiv.org/abs/1610.04794). ICML 2017 | MS |
-|20.02.2018 | Author _et al._ ["Playing Atari with Deep Reinforcement Learning"](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf). Conference DATE | WHO |
+|20.02.2018 | Mnih _et al._ ["Playing Atari with Deep Reinforcement Learning"](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf). 2013 | FA |
