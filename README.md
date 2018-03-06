@@ -87,5 +87,5 @@ Meetings:
 |13.02.2018 | Yang _et al._ ["Towards K-Means-Friendly Spaces: Simultaneous Deep Learning and Clustering"](https://arxiv.org/abs/1610.04794). ICML 2017 | MS |
 |20.02.2018 | Mnih _et al._ ["Playing Atari with Deep Reinforcement Learning"](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf). 2013 | FA |
 |27.02.2018 | Li _et al._ ["Generative Moment Matching Networks"](https://arxiv.org/abs/1502.02761). ICML 2015 | BB |
-
+|06.03.2018 | Avi and Larochelle ["Optimization as a Model for Few-Shot Learning"](https://openreview.net/forum?id=rJY0-Kcll). ICLR 2017 | FR |
 
