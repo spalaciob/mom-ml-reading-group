@@ -25,6 +25,7 @@ Participants:
 + SE: Sara Elkasrawi
 + PH: Patrick Helber
 + FA: Fatemeh Azimi
++ NB: Naseer Bajwa
 
 
 #### Former members
@@ -89,6 +90,6 @@ Meetings:
 |27.02.2018 | Li _et al._ ["Generative Moment Matching Networks"](https://arxiv.org/abs/1502.02761). ICML 2015 | BB |
 |06.03.2018 | Avi and Larochelle ["Optimization as a Model for Few-Shot Learning"](https://openreview.net/forum?id=rJY0-Kcll). ICLR 2017 | FR |
 |13.03.2018 | Guo _et al._ ["CCountering Adversarial Images using Input Transformations"](https://openreview.net/forum?id=SyJ7ClWCb). ICLR 2018 | SP |
-
+|20.03.2018| Pelt and Sethian ["A mixed-scale dense convolutional neural network for image analysis"] (http://www.pnas.org/content/115/2/254). PNAS 2018 | NB
 |dd.mm.yyyy | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | ?? |
 
