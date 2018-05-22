@@ -92,5 +92,6 @@ Meetings:
 |13.03.2018 | Guo _et al._ ["CCountering Adversarial Images using Input Transformations"](https://openreview.net/forum?id=SyJ7ClWCb). ICLR 2018 | SP |
 |20.03.2018| Pelt and Sethian ["A mixed-scale dense convolutional neural network for image analysis"] (http://www.pnas.org/content/115/2/254). PNAS 2018 | NB 
 |10.04.2018 | Xia _et al._ ["Deliberation Networks: Sequence Generation Beyond One-Pass Decoding"](https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding). NIPS 2017 | SE |
+|22.05.2018 | Neil C. Rabinowitz _et al._ ["Machine Theory of Mind"](https://arxiv.org/abs/1802.07740). CoRR 2018 | BB |
 |dd.mm.yyyy | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | ?? |
 
