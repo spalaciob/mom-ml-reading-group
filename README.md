@@ -94,5 +94,6 @@ Meetings:
 |10.04.2018 | Xia _et al._ ["Deliberation Networks: Sequence Generation Beyond One-Pass Decoding"](https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding). NIPS 2017 | SE |
 |22.05.2018 | Neil C. Rabinowitz _et al._ ["Machine Theory of Mind"](https://arxiv.org/abs/1802.07740). CoRR 2018 | BB |
 |05.06.2018 | Greff K. _et al._ ["Neural Expectation Maximization"](https://arxiv.org/abs/1708.03498). NIPS 2017 | PH |
+|12.06.2018 | YouTube _et al._ ["ICLR oral taks"](https://www.youtube.com/playlist?list=PL5Y57pwfm_navKBQJ0PAMDuRF3geYCCgo). ICLR 2018 | YT |
 |dd.mm.yyyy | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | ?? |
 
