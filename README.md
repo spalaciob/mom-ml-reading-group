@@ -95,5 +95,6 @@ Meetings:
 |22.05.2018 | Neil C. Rabinowitz _et al._ ["Machine Theory of Mind"](https://arxiv.org/abs/1802.07740). CoRR 2018 | BB |
 |05.06.2018 | Greff K. _et al._ ["Neural Expectation Maximization"](https://arxiv.org/abs/1708.03498). NIPS 2017 | PH |
 |12.06.2018 | YouTube _et al._ ["ICLR oral taks"](https://www.youtube.com/playlist?list=PL5Y57pwfm_navKBQJ0PAMDuRF3geYCCgo). ICLR 2018 | YT |
+|10.07.2018 | Zamir _et al._ ["Taskonomy: Disentangling Task Transfer Learning"](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf).  [Project Website](http://taskonomy.stanford.edu/) (Best Paper Award) CVPR 2018 | FR |
 |dd.mm.yyyy | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | ?? |
 
