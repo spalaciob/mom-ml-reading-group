@@ -20,7 +20,6 @@ Participants:
 + TK: Tushar Karayil
 + PB: Philipp Blandfort
 + BB: Benjamin Bischke
-+ MS: Marco Schreyer
 + AG: Andrey Guzhov
 + SE: Sara Elkasrawi
 + PH: Patrick Helber
@@ -30,6 +29,7 @@ Participants:
 
 
 #### Former members
++ MS: Marco Schreyer
 + VC: Victor Campos
 + WT: William Thong 
 + MM: Mohsin Munir
