@@ -99,5 +99,6 @@ Meetings:
 |03.07.2018 | Overview and impressions of CVPR 2018 | SP |
 |10.07.2018 | Zamir _et al._ ["Taskonomy: Disentangling Task Transfer Learning"](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf).  [Project Website](http://taskonomy.stanford.edu/) (Best Paper Award) CVPR 2018 | FR |
 |17.07.2018 | Vladlen Koltun ["Doing (Good) Research"](https://www.youtube.com/watch?v=4LEZED1YXm0&feature=youtu.be&t=1420). CVPR Workshop 2018 | YT |
+|24.07.2018 | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | FA |
+|31.07.2018 | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | TK |
 |dd.mm.yyyy | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | ?? |
-
