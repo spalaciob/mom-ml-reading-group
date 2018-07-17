@@ -26,6 +26,7 @@ Participants:
 + PH: Patrick Helber
 + FA: Fatemeh Azimi
 + NB: Naseer Bajwa
++ YT: YouTube
 
 
 #### Former members
