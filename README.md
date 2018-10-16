@@ -102,4 +102,4 @@ Meetings:
 |17.07.2018 | Vladlen Koltun ["Doing (Good) Research"](https://www.youtube.com/watch?v=4LEZED1YXm0&feature=youtu.be&t=1420). CVPR Workshop 2018 | YT |
 |24.07.2018 | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | FA |
 |31.07.2018 | Bojanowski _et al._ ["Unsupervised Learning by Predicting Noise"](https://arxiv.org/abs/1704.05310). ICML2017 | FR |28.08.2018 | Challenges in Fine Grained Classification. | NB
-|dd.mm.yyyy | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | ?? |
+|16.10.2018 | ECCV2018 overview| FA |
