@@ -103,4 +103,4 @@ Meetings:
 |24.07.2018 | Liang _et al._ ["Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection"](https://arxiv.org/abs/1703.03054). CVPR 2017 | FA |
 |31.07.2018 | Bojanowski _et al._ ["Unsupervised Learning by Predicting Noise"](https://arxiv.org/abs/1704.05310). ICML2017 | FR |28.08.2018 | Challenges in Fine Grained Classification. | NB
 |16.10.2018 | ECCV2018 overview| FA |
-|dd.mm.yyyy | xx_et al._ [""](paper). conference year| ?? |
+|dd.mm.yyyy | xx_et al._ ["paper"](link). conference year| ?? |
