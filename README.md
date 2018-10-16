@@ -100,6 +100,6 @@ Meetings:
 |03.07.2018 | Overview and impressions of CVPR 2018 | SP |
 |10.07.2018 | Zamir _et al._ ["Taskonomy: Disentangling Task Transfer Learning"](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf).  [Project Website](http://taskonomy.stanford.edu/) (Best Paper Award) CVPR 2018 | FR |
 |17.07.2018 | Vladlen Koltun ["Doing (Good) Research"](https://www.youtube.com/watch?v=4LEZED1YXm0&feature=youtu.be&t=1420). CVPR Workshop 2018 | YT |
-|24.07.2018 | Name _et al._ ["Paper"](https://URL.com). Conference YYYY | FA |
+|24.07.2018 | Liang _et al._ ["Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection"](https://arxiv.org/abs/1703.03054). CVPR 2017 | FA |
 |31.07.2018 | Bojanowski _et al._ ["Unsupervised Learning by Predicting Noise"](https://arxiv.org/abs/1704.05310). ICML2017 | FR |28.08.2018 | Challenges in Fine Grained Classification. | NB
 |16.10.2018 | ECCV2018 overview| FA |
