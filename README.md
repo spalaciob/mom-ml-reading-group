@@ -104,4 +104,5 @@ Meetings:
 |31.07.2018 | Bojanowski _et al._ ["Unsupervised Learning by Predicting Noise"](https://arxiv.org/abs/1704.05310). ICML2017 | FR |28.08.2018 | Challenges in Fine Grained Classification. | NB
 |02.10.2018 | Chen Y. _et al._ ["Multi-fiber Networks for Video Recognition"](https://link.springer.com/chapter/10.1007/978-3-030-01246-5_22). ECCV 2018 | SP |
 |16.10.2018 | ECCV2018 overview| FA |
+|22.10.2018| Minyoung Huh _et al._ ["Fighting Fake News: Image Splice Detection via Learned Self-Consistency"](https://minyoungg.github.io/selfconsistency/). CVPR 2018 | SE |
 |dd.mm.yyyy | xx_et al._ ["paper"](link). conference year| ?? |
