@@ -106,4 +106,5 @@ Meetings:
 |16.10.2018 | ECCV2018 overview| FA |
 |22.10.2018| Minyoung Huh _et al._ ["Fighting Fake News: Image Splice Detection via Learned Self-Consistency"](https://minyoungg.github.io/selfconsistency/). CVPR 2018 | SE |
 |30.10.2018 | xx_et al._ ["Rule- and embedding-based systems for knowledge graph completion"](link). conference 2018| JH |
+|06.11.2018 | Liu_et al._ ["An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution"](https://arxiv.org/abs/1807.03247). ArXiv 2018| ?? |
 |dd.mm.yyyy | xx_et al._ ["paper"](link). conference year| ?? |
